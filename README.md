@@ -72,7 +72,7 @@ Nexus ne sauvera rien ni personne. Mais il peut contribuer à diffuser les conna
 ## 🛡️ Éthique & Limites
 
 **Ce que Nexus n'est pas** <br>
-Pas une plateforme de débat – C'est une archive de sources, pas un forum <br>
+Pas une plateforme de débat - C'est une archive de sources, pas un forum <br>
 Pas exhaustif - Réflexion de mes centres d'intérêt personnels <br>
 Pas neutre - La curation implique toujours des choix subjectifs <br>
 Pas un substitut médical - Aucune référence ne remplace un avis médical professionnel <br>
