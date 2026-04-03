@@ -7,7 +7,7 @@ Archive de références vérifiables sur l'écologie, la conscience, les innovat
 
 ## 📖 Qu'est-ce que Nexus-Hub ?
 
-Nexus-Hub est un système de curation rigoureux documentant les avancées scientifiques, techniques et philosophiques dans cinq domaines interconnectés :
+Nexus-Hub est un système de curation rigoureux documentant les avancées scientifiques, techniques et metaphysique dans cinq domaines interconnectés :
 - 🌿 Écologie – Protection du vivant, énergies alternatives, communication végétale, plantes sacrées, astrophysique
 - 🧠 Conscience – États modifiés, psychédéliques, méditation, rêves lucides, développement personnel
 - 🥩 Viande Cultivée – Agriculture cellulaire, disruption de l'élevage industriel
