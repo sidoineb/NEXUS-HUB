@@ -31,7 +31,7 @@ Une référence est archivée si elle répond à ces critères :
 ## 🚀 Utilisation
 
 **Consulter l'archive** <br>
-bash# Cloner le repository <br>
+Cloner le repository <br>
 git clone https://github.com/[ton-username]/nexus-hub.git <br>
 
 **Explorer les catégories** <br>
@@ -39,7 +39,7 @@ cd nexus-hub <br>
 ls -R
 
 **Créer un miroir et contribution** <br>
-bash# Fork le repo sur GitHub <br>
+Fork le repo sur GitHub <br>
 git pull origin main  # Synchroniser régulièrement <br>
 
 
