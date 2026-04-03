@@ -28,30 +28,6 @@ Une référence est archivée si elle répond à ces critères :
 
 ---
 
-## 🚀 Utilisation
-
-**Consulter l'archive** <br>
-Cloner le repository <br>
-git clone https://github.com/[ton-username]/nexus-hub.git <br>
-
-**Explorer les catégories** <br>
-cd nexus-hub <br>
-ls -R
-
-**Créer un miroir et contribution** <br>
-Fork le repo sur GitHub <br>
-git pull origin main  # Synchroniser régulièrement <br>
-
-
-**Fork le repository** <br>
-Ajoute ta référence dans la catégorie appropriée (format .nfo) <br>
-Vérifie que la source est accessible et vérifiable <br>
-Soumets une Pull Request avec description claire <br>
-
-Important : Seules les sources vérifiables et rigoureuses sont acceptées. Pas de pseudo-science, pas de clickbait, pas de contenu non sourcé.
-
----
-
 ## 📜 Manifeste
 
 **Indépendance structurelle** <br>
