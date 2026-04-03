@@ -68,7 +68,7 @@ Site personnel : https://connexions-vivant.ovh
 
 ## 📄 Licence
 
-Ce travail est sous licence Creative Commons Attribution-ShareAlike 4.0 International. <br>
+Ce travail est sous licence GPL v3.0. <br>
 Tu es libre de :
 - Partager - copier et redistribuer le contenu
 - Adapter - remixer, transformer et créer à partir du contenu
