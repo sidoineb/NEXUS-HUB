@@ -1,6 +1,6 @@
 # NEXUS-HUB
 
-Un système décentralisé de curation scientifique et technique
+Un système décentralisé de curation <br>
 Archive de références vérifiables sur l'écologie, la conscience, les innovations biomédicales et la défense du vivant.
 
 ![](Nexus-Hub-Git.webp)
