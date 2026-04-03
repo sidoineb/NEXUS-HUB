@@ -8,11 +8,11 @@ Archive de références vérifiables sur l'écologie, la conscience, les innovat
 ## 📖 Qu'est-ce que Nexus-Hub ?
 
 Nexus-Hub est un système de curation rigoureux documentant les avancées dans cinq domaines interconnectés :
-- 🌿 Écologie – Protection du vivant, énergies alternatives, communication végétale, plantes sacrées, astrophysique
-- 🧠 Conscience – États modifiés, psychédéliques, méditation, rêves lucides, développement personnel
-- 🥩 Viande Cultivée – Agriculture cellulaire, disruption de l'élevage industriel
-- 🔬 Laboratoire & Biologie – Culture cellulaire, immunothérapie, édition génomique, lutte contre l'antibiorésistance
-- ⚡ Biohacking – Neurofeedback, adaptogènes, nootropiques, optimisation physiologique
+- 🌿 Écologie - Protection du vivant, énergies alternatives, communication végétale, plantes sacrées, astrophysique
+- 🧠 Conscience - États modifiés, psychédéliques, méditation, rêves lucides, développement personnel
+- 🥩 Viande Cultivée - Agriculture cellulaire, disruption de l'élevage industriel
+- 🔬 Laboratoire & Biologie - Culture cellulaire, immunothérapie, édition génomique, lutte contre l'antibiorésistance
+- ⚡ Biohacking - Neurofeedback, adaptogènes, nootropiques, optimisation physiologique
 
 Chaque entrée renvoie à une source primaire vérifiable : publication peer-reviewed, rapport technique, innovation documentée. Pas d'extrapolation, pas de sensationnalisme, pas de bullshit.
 
@@ -21,10 +21,10 @@ Chaque entrée renvoie à une source primaire vérifiable : publication peer-rev
 ## Critères de sélection
 
 Une référence est archivée si elle répond à ces critères :
-- Vérifiabilité – Source primaire accessible et traçable
-- Rigueur – Méthodologie scientifique ou technique documentée
-- Pertinence – Contribution significative au domaine concerné
-- Honnêteté – Limites et biais explicitement mentionnés
+- Vérifiabilité - Source primaire accessible et traçable
+- Rigueur - Méthodologie scientifique ou technique documentée
+- Pertinence - Contribution significative au domaine concerné
+- Honnêteté - Limites et biais explicitement mentionnés
 
 ---
 
@@ -73,9 +73,9 @@ Nexus ne sauvera rien ni personne. Mais il peut contribuer à diffuser les conna
 
 **Ce que Nexus n'est pas** <br>
 Pas une plateforme de débat – C'est une archive de sources, pas un forum <br>
-Pas exhaustif – Réflexion de mes centres d'intérêt personnels <br>
-Pas neutre – La curation implique toujours des choix subjectifs <br>
-Pas un substitut médical – Aucune référence ne remplace un avis médical professionnel <br>
+Pas exhaustif - Réflexion de mes centres d'intérêt personnels <br>
+Pas neutre - La curation implique toujours des choix subjectifs <br>
+Pas un substitut médical - Aucune référence ne remplace un avis médical professionnel <br>
 
 **Intolérance au relativisme éthique** <br>
 Ce repository n'hébergera jamais de contenu raciste, antisémite, homophobe, transphobe, sexiste ou validiste. Défendre le vivant implique de refuser tout ce qui déshumanise.
@@ -94,12 +94,12 @@ Site personnel : https://connexions-vivant.ovh
 
 Ce travail est sous licence Creative Commons Attribution-ShareAlike 4.0 International. <br>
 Tu es libre de :
-- Partager — copier et redistribuer le contenu
-- Adapter — remixer, transformer et créer à partir du contenu
+- Partager - copier et redistribuer le contenu
+- Adapter - remixer, transformer et créer à partir du contenu
 
 Selon les conditions suivantes :
-- Attribution — Tu dois créditer l'œuvre et indiquer les modifications
-- Partage dans les mêmes conditions — Si tu transformes le contenu, tu dois distribuer ta contribution sous la même licence
+- Attribution - Tu dois créditer l'œuvre et indiquer les modifications
+- Partage dans les mêmes conditions - Si tu transformes le contenu, tu dois distribuer ta contribution sous la même licence
 
 ---
 
